@@ -1,0 +1,105 @@
+commit b23edc176ecc88da180ef660c50d89beb89d93df
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Sun Oct 27 22:05:05 2024 -0600
+
+    Agregando 2 parrafos
+
+commit 24860a0d03d05efada8fe119c8c6deb85d8e8008
+Merge: 1c1f1e5 a746f91
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Sun Oct 27 21:50:52 2024 -0600
+
+    Resolviendo conflicto en estaciones del ano y fecha de inicio
+
+commit 1c1f1e546967038a1413daa5254daaab0a8f1428
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Sun Oct 27 19:20:46 2024 -0600
+
+    Agregando estaciones del ano con fecha de inicio
+
+commit a746f91a8d5ed9e4eeef701f0cd7d214c4dfd876
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Sun Oct 27 19:20:46 2024 -0600
+
+    Agregando las estaciones del ano
+
+commit 6c4908a4e2f7cb402cfd81b91227ff9eea8749d7
+Merge: c145ccc d9c286b
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 23:58:19 2024 -0600
+
+    Resolviendo conflicto merge main/html en el contenido index.html
+
+commit d9c286b20e91bdc66df52013b63234c71cc076bf
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 23:34:16 2024 -0600
+
+    Agregando index.js al index.htl
+
+commit c145ccc12e5724465c0cc0318f1aeadd24a09be8
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 23:20:35 2024 -0600
+
+    Agregando style.css al index.html
+
+commit a57a49374d7c2808ccdca3183f2d6af6609ce4a9
+Merge: fcd1f4c 6a13c66
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 22:36:18 2024 -0600
+
+    Merge branch 'js'
+
+commit fcd1f4cd47a6798b80d4fbf8c586aad0b00dd457
+Merge: 7e95123 d6f4878
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 22:26:23 2024 -0600
+
+    Merge branch 'css'
+
+commit 6a13c66ea703084029fed6a95db025bd89ce9060
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 22:20:49 2024 -0600
+
+    Creando index.js
+
+commit d6f4878fedc6f64193c1b57883e95f6d51cd9400
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 22:15:15 2024 -0600
+
+    creando style.css
+
+commit 7e951234d7f1e9711243f5dfd8fdcd802bb29754
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 22:08:05 2024 -0600
+
+    Creando index.html
+
+commit ccb4a4f1d8572b9b939c3137929358b1954e1056
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 21:33:54 2024 -0600
+
+    Ignorando archivos .exe
+
+commit c50e4de3e8f7a74987c6c305ee7c992f681907b7
+Author: Honey Bunch <rebecristal14@gmail.com>
+Date:   Thu Oct 24 20:52:48 2024 -0600
+
+    creando licencia del repositorio
+
+commit d8b08d7a3fe1e88ea83d80c3c2b88fb7fe35f0d8
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 20:34:19 2024 -0600
+
+    Agregando mas contenido al README
+
+commit a270c2eae2440836f2e28c3c39d3e928aa69dd20
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 20:16:02 2024 -0600
+
+    Agregando contenido inicial al README
+
+commit ac1042ef15c51e9316aee6b6c7089430b957e3b7
+Author: Honey-Bunch14 <rebecristal14@gmail.com>
+Date:   Thu Oct 24 20:07:24 2024 -0600
+
+    Primer commit 🤓
